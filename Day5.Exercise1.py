@@ -7,6 +7,6 @@ count = 0
 
 for studentt in student_heights:
   num += studentt
-  count = count + 1
+  count += 1
 print (round(num / count))
 
